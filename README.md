@@ -64,6 +64,8 @@ The collected fuel price data is presented through an interactive dashboard deve
   <img src="dashboard/dashboard_overview.png" width="1000">
 </p>
 
+👉 **[View the interactive Looker Studio dashboard](https://datastudio.google.com/s/i_-TKQIAxDk)**
+
 The dashboard allows users to:
 
 - Compare average fuel prices
